@@ -1,9 +1,9 @@
 <div align="center">
-   art by @BlackShark0804
+   art by @timeroom9000
 </div>
 
 <div align="center">
-    <img src="https://files.catbox.moe/9gxmm8.png" alt="winter soldier by @BlackShark0804">
+    <img src="https://files.catbox.moe/cafdvk.png">
 </div>
 
 <div align="center">
