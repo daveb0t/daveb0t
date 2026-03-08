@@ -7,5 +7,5 @@
 </div>
 
 <div align="center">
-   <a href="https://rentry.co/budgqie">rentry.co / budgqie</a>
+   <a href="https://rentry.co/budgie">rentry.co / budgie</a>
 </div>
